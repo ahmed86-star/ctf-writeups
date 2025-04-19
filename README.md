@@ -11,23 +11,19 @@
 ```bash
 tryhackme-writeups/
 ├── README.md
-├── RootMe.md
-├── Ignite.md
 ├── Tools.md
-└── AdventOfCyber2024/
-    ├── Day1.md
-    └── Day2.md
+
 ```
 
 ### 🚩 Writeups Index ###
 
+📁 tryhackme-writeups/
+
+├── [📄 README.md](./README.md)
 
 
-🏷 Challenge | 🔒 Difficulty | 🧰 Tags | 🔗 Link
-RootMe | Easy | Enumeration, Exploitation | 📄 View
-Ignite | Medium | Web, PrivEsc | 📄 View
-Advent of Cyber 2024 - Day 1 | Varies | Event, Enumeration | 📄 View
-Advent of Cyber 2024 - Day 2 | Varies | Event, Web | 📄 View
+├── [🧰 Tools.md](./Tools.md)
+
 
 ### 🧰 Tools & One-Liners ###
 
