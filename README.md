@@ -24,6 +24,8 @@ tryhackme-writeups/
 
 ├── [🧰 Tools.md](./Tools.md)
 
+- [📁 RootMe](https://github.com/ahmed86-star/ctf-writeups/tree/main/RootMe)  — Contains writeups, notes, and walkthroughs for the TryHackMe room **"RootMe"**.
+
 
 ### 🧰 Tools & One-Liners ###
 
