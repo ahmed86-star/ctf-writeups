@@ -24,10 +24,10 @@ tryhackme-writeups/
 
 📁 tryhackme-writeups/
 
-├── [📄 README.md](./README.md)
+├── [📄 README.md](./README.md) - Main landing page with repo overview, structure, and writeup index.
 
 
-├── [🧰 Tools.md](./Tools.md)
+├── [🧰 Tools.md](./Tools.md) - Curated list of tools, payloads, one-liners, and helpful CTF commands.
 
 - [📁 RootMe](https://github.com/ahmed86-star/ctf-writeups/tree/main/RootMe)  — Contains writeups, notes, and walkthroughs for the TryHackMe room **"RootMe"**.
 
