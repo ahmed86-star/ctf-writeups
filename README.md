@@ -15,8 +15,9 @@
 
 ```bash
 tryhackme-writeups/
-├── README.md
-├── Tools.md
+├── README.md       # Main landing page with repo overview, structure, and writeup index
+├── Tools.md        # Curated list of tools, payloads, one-liners, and helpful CTF commands
+├── RootMe/         # Contains writeups, notes, and walkthroughs for the TryHackMe room "RootMe"
 
 ```
 
@@ -32,10 +33,7 @@ tryhackme-writeups/
 - [📁 RootMe](https://github.com/ahmed86-star/ctf-writeups/tree/main/RootMe)  — Contains writeups, notes, and walkthroughs for the TryHackMe room **"RootMe"**.
 
 
-### 🧰 Tools & One-Liners ###
 
-Need handy scripts or command-line gems?
-Check out 📄 Tools.md for a curated list of tools, payloads, and one-liners.
 
 ### ✍️ Writeup Structure  ###
 
