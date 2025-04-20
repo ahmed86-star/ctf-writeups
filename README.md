@@ -1,10 +1,15 @@
 <h1 align="center">🔐 TryHackMe CTF Writeups</h1>
-<p align="center">By <strong> Ahmed</strong> | <a href="https://ahmed1.live">ahmed1.live</a></p>
+<p align="center">By <strong>Ahmed</strong> | <a href="https://ahmed86-star.github.io/">ahmed86-star.github.io</a></p>
 <p align="center">
     🧠 A growing collection of detailed writeups from my journey through <a href="https://tryhackme.com">TryHackMe</a> challenges.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Learn%20Cybersecurity-red?logo=tryhackme" alt="TryHackMe Badge" />
+</p>
+
 ---
+
 
 ## 📁 Repository Structure
 
