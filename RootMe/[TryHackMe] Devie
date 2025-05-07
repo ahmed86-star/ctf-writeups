@@ -9,6 +9,7 @@ This machine starts off with a website that solves mathematical equations. On th
 
 
 
+
 Enumeration
 $ nmap -sC -sV  -A  -oN nmap_result MACHINE_IP
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-04-03 16:30 CEST
